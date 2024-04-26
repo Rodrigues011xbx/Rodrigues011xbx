@@ -37,7 +37,7 @@
       height="170em"
     />
   </picture>
-  <img height="170em" alt="Gatinho programando" src="https://github.com/Rodrigues011xbx/Rodrigues011xbx/assets/64675360/90e2b0d4-52e2-46b8-b5e9-bbae51f66fa9">
+  <img height="170em" alt="Gatinho programando" src="./gif-cat.gif">
 </div>
 
 ## Habilidades Tecnológicas 👨🏻‍💻
