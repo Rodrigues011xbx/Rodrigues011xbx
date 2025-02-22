@@ -82,3 +82,10 @@ Minha admiração pela tecnologia impulsionou meu constante desejo de inovação
       width="100%"
   />
 </picture>
+
+## Certificações 📜
+Você pode acessar alguns dos meus certificados através do link abaixo:
+
+📂 **[Certificações no Google Drive](https://drive.google.com/drive/folders/1eL16DeWpzQetQRZyw4XdJUaWrde3d2tK?usp=sharing)**
+
+
