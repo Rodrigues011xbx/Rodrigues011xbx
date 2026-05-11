@@ -1,91 +1,151 @@
-![Olá! eu sou Gabriel Rodrigues](https://readme-typing-svg.herokuapp.com/?color=9745F5&size=35&center=true&vCenter=true&repeat=false&width=1000&lines=Olá!%20Eu%20sou%20Gabriel%20Rodrigues%20🤖%20👋🏻)
+<div align="center">
+
+<!-- Animated header with terminal-style greeting -->
+```
+╔══════════════════════════════════════════════════════╗
+║  > Initializing Gabriel_Rodrigues.exe...             ║
+║  > Loading skills............... [██████████] 100%   ║
+║  > Full Stack Developer: ONLINE ✓                    ║
+╚══════════════════════════════════════════════════════╝
+```
+
+</div>
 
 <div align="center">
-  <a href="https://rodrigues011xbx.github.io"><img alt="Website" src="https://img.shields.io/website?label=Meu%20webSite&style=for-the-badge&url=https://rodrigues011xbx.github.io/"></a>
-  <a href="https://www.linkedin.com/in/gabriel-rodrigues-364a142a2/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-333?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://t.me/+5582994142487"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-9745f5?style=for-the-badge&logo=telegram&logoColor=white"></a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=800&color=9745F5&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Gabriel+Rodrigues+%F0%9F%9A%80;Full+Stack+Developer+%7C+IFAL;Building+things+that+matter+%E2%9C%A8)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+<img align="right" width="360" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+### `whoami` 👨‍💻
+
+```yaml
+name: Gabriel Rodrigues
+role: Full Stack Developer
+location: Maceió, Alagoas 🇧🇷
+education: Desenvolvimento de Sistemas @ IFAL
+status: building & learning every day
+focus:
+  - Web Development (HTML · CSS · JS)
+  - Mobile Apps (React Native)
+  - Backend (Python · MySQL)
+  - Research (PIBIC Jr. / AMO - IFAL)
+```
+
+<br clear="right"/>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+
+**Backend & Data**
+
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+
+**Tools & Workflow**
+
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-%230078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rodrigues011xbx&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigues011xbx&layout=compact&langs_count=7&theme=midnight-purple&hide_border=true&bg_color=0d1117&locale=pt-br"/>
 </div>
 
 <div align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Rodrigues011xbx&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000&locale=pt-br&rank_icon=github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Rodrigues011xbx&show_icons=true&theme=transparent&hide_border=true&locale=pt-br&rank_icon=github"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Rodrigues011xbx&show_icons=true&theme=transparent&hide_border=true&locale=pt-br&rank_icon=github"
-      alt="Minhas Estatísticas no Github"
-      height="170em"
-    />
-  </picture>
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigues011xbx&theme=midnight-purple&bg_color=00000000&hide_border=true&locale=pt-br"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigues011xbx&theme=transparent&hide_border=true&locale=pt-br"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigues011xbx&theme=transparent&hide_border=true&locale=pt-br"
-      alt="Linguagens que eu mais utilizo"
-      height="170em"
-    />
-  </picture>
-  <img height="170em" alt="Gatinho programando" src="./gif-cat.gif">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rodrigues011xbx&theme=midnight-purple&hide_border=true&background=0d1117&stroke=9745F5&ring=9745F5&fire=FF6B6B&currStreakLabel=9745F5" alt="streak stats"/>
 </div>
 
-## Habilidades Tecnológicas 👨🏻‍💻
+---
 
-<br/>
-<div style = "display : inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="my-sql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="react-native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rodrigues011xbx&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies"/>
 </div>
-<br/>
 
-Minha admiração pela tecnologia impulsionou meu constante desejo de inovação e crescimento como desenvolvedor 🤓💻
+---
 
-## Informações extras 📌
-<div>
-  <img style="width:60px" src="https://play-lh.googleusercontent.com/DxVKD8i1OlpLwBIt8LtI5zLZqp0afABhdWbHs0Sq0lOEacRmr5HGfZsoiJmDysrnXLCo=w240-h480-rw">
-    <img style="width:60px" src="./AMO-project.jpeg">
+### 📌 Projetos em Destaque
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rodrigues011xbx&repo=Rodrigues011xbx&theme=midnight-purple&hide_border=true&bg_color=0d1117)](https://github.com/Rodrigues011xbx)
+
 </div>
-<br/>
 
-- [Formação em Desenv.Sistemas no Instituto Federal de Alagoas](https://www.instagram.com/ifal.maceio/)
-- [Participante de projeto de expansão tecnológica (PIBIC Jr./IFAL) => AMO](https://www.instagram.com/amo.ifal/)
-- [Site pessoal (projetos realizados)](https://rodrigues011xbx.github.io/)
+> 🔭 Explore todos os meus projetos no **[site pessoal →](https://rodrigues011xbx.github.io/)**
 
-##
-<picture>
-  <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Rodrigues011xbx&theme=react&bg_color=transparent&hide_border=true&custom_title=Meu%20Gráfico%20de%20Contribuições%20📈"
-      media="(prefers-color-scheme: dark)"
-  />
-  <source
-      srcset="https://github-readme-activity-graph.vercel.app/graph?username=Rodrigues011xbx&bg_color=transparent&hide_border=true&custom_title=Meu%20Gráfico%20de%20Contribuições%20📈"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=Rodrigues011xbx&bg_color=transparent&hide_border=true&custom_title=Meu%20Gráfico%20de%20Contribuições%20📈"
-      alt="Meu Gráfico de Contribuições"
-      width="100%"
-  />
-</picture>
+---
 
-## Certificações 📜
-Você pode acessar alguns dos meus certificados através do link abaixo:
+### 🎓 Formação & Experiência
 
-📂 **[Certificações no Google Drive](https://drive.google.com/drive/folders/1eL16DeWpzQetQRZyw4XdJUaWrde3d2tK?usp=sharing)**
+```
+📍 Instituto Federal de Alagoas (IFAL) - Maceió
+   └── Técnico em Desenvolvimento de Sistemas
+   └── PIBIC Jr. — Projeto AMO (Expansão Tecnológica)
+        └── Pesquisa aplicada em tecnologia educacional
+```
 
+---
 
+### 📜 Certificações
+
+> 📂 Acesse todos os meus certificados no **[Google Drive →](https://drive.google.com/drive/folders/1eL16DeWpzQetQRZyw4XdJUaWrde3d2tK?usp=sharing)**
+
+---
+
+### 📈 Contribuições
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rodrigues011xbx&theme=react-dark&bg_color=0d1117&color=9745F5&line=9745F5&point=FF6B6B&area=true&hide_border=true&custom_title=Gráfico+de+Contribuições+📈" width="100%" alt="activity graph"/>
+</div>
+
+---
+
+### 🤝 Onde me encontrar
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=9745F5)](https://rodrigues011xbx.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/gabriel-rodrigues-364a142a2/)
+[![Telegram](https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/+5582994142487)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════╗
+║  "Primeiro resolva o problema. Então escreva     ║
+║   o código."  — John Johnson                     ║
+╚══════════════════════════════════════════════════╝
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=Rodrigues011xbx&color=9745F5&style=flat-square&label=Profile+Views)
+
+</div>
