@@ -1,27 +1,49 @@
 <svg width="1000" height="300" viewBox="0 0 1000 300" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="5" result="blur"/>
+    <linearGradient id="bg_grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#050505;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="text_grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#FFFFFF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#9745F5;stop-opacity:1" />
+    </linearGradient>
+    <filter id="subtle_glow">
+      <feGaussianBlur stdDeviation="15" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
   </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="300" rx="12" fill="url(#bg_grad)"/>
   
-  <rect width="1000" height="300" rx="15" fill="#0D1117" stroke="#9745F5" stroke-opacity="0.3"/>
+  <!-- Subtle Decorative Shapes -->
+  <path d="M0 300 L300 0 L1000 0 L1000 300 Z" fill="white" fill-opacity="0.01"/>
+  <circle cx="900" cy="50" r="150" fill="#9745F5" fill-opacity="0.05" filter="url(#subtle_glow)"/>
   
-  <!-- Background Glows -->
-  <circle cx="800" cy="100" r="150" fill="#9745F5" fill-opacity="0.15" filter="url(#glow)"/>
-  <circle cx="200" cy="200" r="100" fill="#26A5E4" fill-opacity="0.1" filter="url(#glow)"/>
+  <!-- Main Name -->
+  <text x="50" y="160" font-family="'Inter', sans-serif, Arial" font-size="70" font-weight="900" fill="url(#text_grad)" style="letter-spacing: -2px;">
+    Gabriel Rodrigues
+  </text>
   
-  <!-- Content -->
-  <text x="500" y="140" text-anchor="middle" font-family="Arial Black, sans-serif" font-size="85" fill="white" filter="url(#glow)" style="letter-spacing: -3px;">GABRIEL RODRIGUES</text>
-  <text x="500" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#9745F5" font-weight="bold" style="letter-spacing: 12px; text-transform: uppercase;">SHADOW SOVEREIGN DEVELOPER</text>
+  <!-- Role & Subtitle -->
+  <text x="52" y="210" font-family="'Inter', sans-serif, Arial" font-size="24" fill="white" fill-opacity="0.6" font-weight="400" style="letter-spacing: 2px;">
+    Full Stack Developer • Software Engineer
+  </text>
   
-  <!-- Progress Bar Decoration -->
-  <rect x="250" y="230" width="500" height="4" rx="2" fill="#161B22"/>
-  <rect x="250" y="230" width="380" height="4" rx="2" fill="#9745F5" filter="url(#glow)">
-    <animate attributeName="width" values="0;380" dur="2s" fill="freeze" />
-  </rect>
+  <!-- Accent Line -->
+  <rect x="52" y="235" width="80" height="4" rx="2" fill="#9745F5"/>
+  
+  <!-- Tech Keywords (Floating style) -->
+  <g transform="translate(700, 140)">
+    <text x="0" y="0" font-family="monospace" font-size="14" fill="#26A5E4" fill-opacity="0.5">01 // FRONTEND</text>
+    <text x="0" y="30" font-family="monospace" font-size="14" fill="#9745F5" fill-opacity="0.5">02 // BACKEND</text>
+    <text x="0" y="60" font-family="monospace" font-size="14" fill="#FF6B6B" fill-opacity="0.5">03 // DESIGN</text>
+  </g>
+
+  <!-- High-tech grid overlay (Subtle) -->
+  <path d="M0 100 H1000 M0 200 H1000 M200 0 V300 M400 0 V300 M600 0 V300 M800 0 V300" stroke="white" stroke-opacity="0.03" stroke-width="1"/>
 </svg>
