@@ -1,0 +1,31 @@
+<svg width="300" height="204" viewBox="0 0 300 204" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="204" rx="10" fill="#161B22" stroke="#9745F5" stroke-opacity="0.4"/>
+  
+  <text x="20" y="35" font-family="Arial" font-size="12" fill="#9745F5" font-weight="bold" style="letter-spacing: 2px;">DAILY HABITS</text>
+  
+  <!-- Habit 1 -->
+  <g transform="translate(20, 60)">
+    <rect width="260" height="30" rx="6" fill="#0D1117"/>
+    <rect width="220" height="30" rx="6" fill="#9745F5" fill-opacity="0.1"/>
+    <text x="10" y="20" font-family="Arial" font-size="12" fill="white">Code &amp; Commit</text>
+    <circle cx="245" cy="15" r="5" fill="#9745F5"/>
+  </g>
+  
+  <!-- Habit 2 -->
+  <g transform="translate(20, 100)">
+    <rect width="260" height="30" rx="6" fill="#0D1117"/>
+    <rect width="180" height="30" rx="6" fill="#26A5E4" fill-opacity="0.1"/>
+    <text x="10" y="20" font-family="Arial" font-size="12" fill="white">Technical Reading</text>
+    <circle cx="245" cy="15" r="5" fill="#26A5E4"/>
+  </g>
+  
+  <!-- Habit 3 -->
+  <g transform="translate(20, 140)">
+    <rect width="260" height="30" rx="6" fill="#0D1117"/>
+    <rect width="200" height="30" rx="6" fill="#FF6B6B" fill-opacity="0.1"/>
+    <text x="10" y="20" font-family="Arial" font-size="12" fill="white">Project Research</text>
+    <circle cx="245" cy="15" r="5" fill="#FF6B6B"/>
+  </g>
+  
+  <text x="150" y="190" text-anchor="middle" font-family="Arial" font-size="10" fill="white" fill-opacity="0.4">CONSISTENCY IS KEY</text>
+</svg>

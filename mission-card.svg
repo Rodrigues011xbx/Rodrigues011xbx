@@ -1,0 +1,24 @@
+<svg width="400" height="200" viewBox="0 0 400 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="200" rx="15" fill="#161B22" stroke="#9745F5" stroke-opacity="0.3"/>
+  
+  <text x="20" y="35" font-family="Arial" font-size="12" fill="#9745F5" font-weight="bold" style="letter-spacing: 2px;">CURRENT MISSION</text>
+  
+  <!-- Text Content (Moved slightly left and wrapped/shrunk to avoid overlap) -->
+  <text x="20" y="70" font-family="Arial" font-size="18" fill="white" font-weight="bold">Mastering Advanced</text>
+  <text x="20" y="95" font-family="Arial" font-size="18" fill="white" font-weight="bold">Backend Systems</text>
+  
+  <!-- Circular Progress (Positioned more to the right) -->
+  <g transform="translate(310, 100)">
+    <circle cx="0" cy="0" r="60" stroke="#0D1117" stroke-width="12" fill="none"/>
+    <circle cx="0" cy="0" r="60" stroke="#9745F5" stroke-width="12" stroke-dasharray="377" stroke-dashoffset="113" stroke-linecap="round" fill="none">
+      <animate attributeName="stroke-dashoffset" values="377;113" dur="2s" fill="freeze" />
+    </circle>
+    <text x="0" y="7" text-anchor="middle" font-family="Arial" font-size="18" fill="white" font-weight="bold">70%</text>
+  </g>
+  
+  <text x="20" y="130" font-family="Arial" font-size="14" fill="white" fill-opacity="0.6">Focus: Python, Node.js &amp;</text>
+  <text x="20" y="150" font-family="Arial" font-size="14" fill="white" fill-opacity="0.6">Distributed Systems.</text>
+  
+  <rect x="20" y="165" width="120" height="24" rx="12" fill="#9745F5" fill-opacity="0.1" stroke="#9745F5" stroke-opacity="0.5"/>
+  <text x="80" y="182" text-anchor="middle" font-family="Arial" font-size="10" fill="#9745F5" font-weight="bold">IN PROGRESS</text>
+</svg>

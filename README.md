@@ -1,25 +1,34 @@
 <div align="center">
 
-<!-- HEADER: Shadow Sovereign Banner -->
-<img src="profile-banner.svg" width="100%" />
+<!-- HEADER: Premium Minimalist Banner -->
+<img src="profile-banner.svg?v=3" width="100%" />
 
 <br/>
 
-<!-- PLAYER STATUS: Dashboard Local -->
+<!-- DASHBOARD GRID 1: Bio & Mission (Aligned 200px height) -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
-    <td width="62%" valign="top" style="padding: 0; margin: 0;">
-      <img src="about-card.svg" width="100%" style="display: block; margin: 0;" />
+    <td width="55%" valign="top">
+      <img src="about-card.svg" width="100%" style="display: block;" />
     </td>
-    <td width="3%" style="padding: 0; margin: 0;"></td>
-    <td width="35%" valign="top" style="padding: 0; margin: 0;">
-      <div align="center" style="background: #161B22; border-radius: 10px; border: 1px solid rgba(151, 69, 245, 0.5); padding: 22px; height: 204px; box-shadow: 0 0 15px rgba(151, 69, 245, 0.1);">
-        <h4 style="color: #9745F5; margin-bottom: 8px; font-family: sans-serif; letter-spacing: 2px; font-weight: 900;">🎓 ACADEMY</h4>
-        <p style="font-size: 14px; color: white; margin: 0;">Desenvolvimento de Sistemas<br><b style="color: #FF6B6B;">IFAL - Maceió</b></p>
-        <hr style="border: 0.5px solid rgba(151, 69, 245, 0.2); margin: 15px 0;">
-        <h4 style="color: #26A5E4; margin-bottom: 8px; font-family: sans-serif; letter-spacing: 2px; font-weight: 900;">🧪 MISSION</h4>
-        <p style="font-size: 14px; color: white; margin: 0;">Projeto AMO<br><b style="color: #FF6B6B;">PIBIC Jr. Researcher</b></p>
-      </div>
+    <td width="3%"></td>
+    <td width="42%" valign="top">
+      <img src="mission-card.svg" width="100%" style="display: block;" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- DASHBOARD GRID 2: Academy/Research & Daily Habits (Aligned 200px height) -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
+  <tr>
+    <td width="62%" valign="top">
+      <img src="academy-card.svg" width="100%" style="display: block;" />
+    </td>
+    <td width="3%"></td>
+    <td width="35%" valign="top">
+      <img src="habits-card.svg" width="100%" style="display: block;" />
     </td>
   </tr>
 </table>
@@ -33,17 +42,31 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,mysql,sqlite,linux,git,github,vscode,figma&theme=dark" width="100%" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Class-Full--Stack_Developer-9745F5?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Rank-Senior_Student-26A5E4?style=for-the-badge&logo=google-scholar" />
+  <img src="https://img.shields.io/badge/Specialty-UI/UX_Design-FF6B6B?style=for-the-badge&logo=figma" />
+</div>
+
 ---
 
 ### 📊 System Analysis (Character Stats)
-<!-- Usando SVG Local para estabilidade 100% e visual Premium -->
 <p align="center">
   <img src="system-stats.svg" width="100%" />
 </p>
 
 ---
 
-### 📈 Activity Pulse
+### 🏆 Achievement Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rodrigues011xbx&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7&rank=SSS,SS,S,A" alt="trophies" />
+</div>
+
+---
+
+### 📈 Activity Matrix
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rodrigues011xbx&theme=react-dark&bg_color=0d1117&color=9745F5&line=9745F5&point=ffffff&area=true&hide_border=true" width="100%" />
 </p>
