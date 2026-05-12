@@ -1,0 +1,30 @@
+<svg width="600" height="250" viewBox="0 0 600 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Neon Border Container -->
+  <rect x="1" y="1" width="598" height="248" rx="10" fill="#0D1117" stroke="#9745F5" stroke-opacity="0.5"/>
+  <rect x="5" y="5" width="590" height="240" rx="8" fill="#161B22"/>
+  
+  <!-- Header: Level & Title -->
+  <text x="30" y="45" font-family="Arial" font-size="12" fill="#9745F5" font-weight="bold" style="letter-spacing: 2px; text-transform: uppercase;">PLAYER STATUS</text>
+  <text x="500" y="45" font-family="Arial" font-size="14" fill="#FF6B6B" font-weight="bold">LVL. 21</text>
+  
+  <text x="30" y="85" font-family="Arial" font-size="32" fill="white" font-weight="bold">Building things that matter.</text>
+  
+  <!-- Bio -->
+  <text x="30" y="125" font-family="Arial" font-size="16" fill="white" fill-opacity="0.6">Transforming complex ideas into elegant,</text>
+  <text x="30" y="150" font-family="Arial" font-size="16" fill="white" fill-opacity="0.6">functional and high-performance digital solutions.</text>
+  
+  <!-- XP Bar (Solo Leveling Style) -->
+  <text x="30" y="195" font-family="Arial" font-size="12" fill="white" fill-opacity="0.8" font-weight="bold">XP PROGRESS</text>
+  <rect x="30" y="205" width="540" height="12" rx="6" fill="#0D1117" stroke="#9745F5" stroke-opacity="0.3"/>
+  <rect x="30" y="205" width="420" height="12" rx="6" fill="url(#xpGrad)"/>
+  
+  <defs>
+    <linearGradient id="xpGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#9745F5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FF6B6B;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <text x="30" y="235" font-family="monospace" font-size="14" fill="#26A5E4">> open_to_collabs = true;</text>
+  <text x="500" y="235" font-family="Arial" font-size="12" fill="white" fill-opacity="0.4">78% TO NEXT LVL</text>
+</svg>
