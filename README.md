@@ -62,7 +62,7 @@
 
 ### 📈 Activity Matrix
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rodrigues011xbx&theme=react-dark&bg_color=0d1117&color=9745F5&line=9745F5&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rodrigues011xbx&theme=github_dark" width="100%" alt="Activity Matrix" />
 </p>
 
 ---
