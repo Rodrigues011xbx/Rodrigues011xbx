@@ -59,14 +59,6 @@
 
 ---
 
-
-### 📈 Activity Matrix
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rodrigues011xbx&theme=github_dark" width="100%" alt="Activity Matrix" />
-</p>
-
----
-
 ### 🤝 Connectivity Hub
 <div align="center">
 
