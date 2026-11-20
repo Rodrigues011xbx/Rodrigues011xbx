@@ -1,24 +1,25 @@
 <svg width="600" height="200" viewBox="0 0 600 200" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect x="1" y="1" width="598" height="198" rx="10" fill="#161B22" stroke="#9745F5" stroke-opacity="0.3"/>
-  
-  <text x="30" y="35" font-family="Arial" font-size="10" fill="#9745F5" font-weight="bold" style="letter-spacing: 2px; text-transform: uppercase;">PLAYER STATUS</text>
-  <text x="530" y="35" font-family="Arial" font-size="12" fill="#FF6B6B" font-weight="bold">LVL. 21</text>
-  
+  <rect x="1" y="1" width="598" height="198" rx="10" fill="#161B22" stroke="#FFFFFF" stroke-opacity="0.2"/>
+
+  <text x="30" y="35" font-family="Arial" font-size="10" fill="#FFFFFF" fill-opacity="0.85" font-weight="bold" style="letter-spacing: 2px; text-transform: uppercase;">PLAYER STATUS</text>
+  <text x="530" y="35" font-family="Arial" font-size="12" fill="#FFFFFF" font-weight="bold">LVL. 22</text>
+
   <text x="30" y="70" font-family="Arial" font-size="28" fill="white" font-weight="bold">Building things that matter.</text>
-  
+
   <text x="30" y="100" font-family="Arial" font-size="14" fill="white" fill-opacity="0.6">Transforming complex ideas into elegant, functional</text>
   <text x="30" y="120" font-family="Arial" font-size="14" fill="white" fill-opacity="0.6">and high-performance digital solutions.</text>
-  
-  <rect x="30" y="150" width="540" height="8" rx="4" fill="#0D1117" stroke="#9745F5" stroke-opacity="0.2"/>
-  <rect x="30" y="150" width="420" height="8" rx="4" fill="url(#xpGrad)"/>
-  
+
+  <rect x="30" y="150" width="540" height="8" rx="4" fill="#0D1117" stroke="#FFFFFF" stroke-opacity="0.15"/>
+  <rect x="30" y="150" width="465" height="8" rx="4" fill="url(#xpGrad)"/>
+
   <defs>
     <linearGradient id="xpGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#9745F5;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#FF6B6B;stop-opacity:1" />
+      <stop offset="0%" style="stop-color:#FFFFFF;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFFFFF;stop-opacity:0.65" />
     </linearGradient>
   </defs>
-  
-  <text x="30" y="180" font-family="monospace" font-size="12" fill="#26A5E4">> open_to_collabs = true;</text>
-  <text x="500" y="180" font-family="Arial" font-size="10" fill="white" fill-opacity="0.4">78% TO NEXT LVL</text>
+
+  <text x="30" y="180" font-family="monospace" font-size="12" fill="#FFFFFF" fill-opacity="0.85">&gt; open_to_collabs = true;</text>
+  <text x="500" y="180" font-family="Arial" font-size="10" fill="white" fill-opacity="0.4">86% TO NEXT LVL</text>
 </svg>
+
