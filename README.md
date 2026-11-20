@@ -1,34 +1,34 @@
 <div align="center">
 
-<!-- HEADER: Premium Minimalist Banner -->
-<img src="profile-banner.svg?v=4" width="100%" />
+<!-- HEADER: Terminal-style Banner -->
+<img src="profile-banner.svg?v=5" width="100%" />
 
 <br/>
 
-<!-- DASHBOARD GRID 1: Bio & Mission (Aligned 200px height) -->
+<!-- DASHBOARD GRID 1: Bio & Mission -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
     <td width="55%" valign="top">
-      <img src="about-card.svg?v=2" width="100%" style="display: block;" />
+      <img src="about-card.svg?v=3" width="100%" style="display: block;" />
     </td>
     <td width="3%"></td>
     <td width="42%" valign="top">
-      <img src="mission-card.svg?v=2" width="100%" style="display: block;" />
+      <img src="mission-card.svg?v=3" width="100%" style="display: block;" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- DASHBOARD GRID 2: Academy/Research & Daily Habits (Aligned 200px height) -->
+<!-- DASHBOARD GRID 2: Academy/Research & Daily Habits -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
     <td width="62%" valign="top">
-      <img src="academy-card.svg?v=2" width="100%" style="display: block;" />
+      <img src="academy-card.svg?v=3" width="100%" style="display: block;" />
     </td>
     <td width="3%"></td>
     <td width="35%" valign="top">
-      <img src="habits-card.svg?v=2" width="100%" style="display: block;" />
+      <img src="habits-card.svg?v=3" width="100%" style="display: block;" />
     </td>
   </tr>
 </table>
@@ -37,7 +37,7 @@
 
 ---
 
-### ⚔️ Combat Arsenal (Tech Stack)
+### `$ cat tech-stack.json`
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,python,mysql,sqlite,linux,git,github,vscode,figma,aws,docker,terraform,githubactions,cloudflare&theme=dark" width="100%" />
 </div>
@@ -53,14 +53,14 @@
 
 ---
 
-### 📊 System Analysis (Character Stats)
+### `$ ./system-scan --report`
 <p align="center">
-  <img src="system-stats.svg?v=2" width="100%" />
+  <img src="system-stats.svg?v=3" width="100%" />
 </p>
 
 ---
 
-### 🤝 Connectivity Hub
+### `$ contact --list`
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rodrigues-364a142a2/)
@@ -73,7 +73,7 @@
 
 <div align="center">
 
-*“The system has chosen you to level up.”*
+*"The system has chosen you to level up."*
 
 <br/>
 

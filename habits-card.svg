@@ -1,40 +1,78 @@
-<svg width="300" height="244" viewBox="0 0 300 244" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="300" height="244" rx="10" fill="#161B22" stroke="#FFFFFF" stroke-opacity="0.25"/>
+<svg width="300" height="280" viewBox="0 0 300 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="298" height="278" rx="10" fill="#0D1117" stroke="#FFFFFF" stroke-opacity="0.14"/>
+  
+  <rect x="1" y="1" width="298" height="26" rx="8" fill="#161B22"/>
+  <circle cx="18" cy="14" r="4" fill="#FFFFFF" fill-opacity="0.25"/>
+  <circle cx="32" cy="14" r="4" fill="#FFFFFF" fill-opacity="0.45"/>
+  <circle cx="46" cy="14" r="4" fill="#FFFFFF" fill-opacity="0.75"/>
+  <text x="64" y="18" font-family="monospace" font-size="10" fill="#FFFFFF" fill-opacity="0.45">habits.sh</text>
+  <line x1="1" y1="27" x2="299" y2="27" stroke="#FFFFFF" stroke-opacity="0.08"/>
 
-  <text x="20" y="35" font-family="Arial" font-size="12" fill="#FFFFFF" fill-opacity="0.85" font-weight="bold" style="letter-spacing: 2px;">DAILY HABITS</text>
+  <text x="20" y="50" font-family="monospace" font-size="11" fill="#FFFFFF" fill-opacity="0.5">$ ./habits --status</text>
 
-  <!-- Habit 1 -->
-  <g transform="translate(20, 55)">
-    <rect width="260" height="30" rx="6" fill="#0D1117"/>
-    <rect width="220" height="30" rx="6" fill="#FFFFFF" fill-opacity="0.1"/>
-    <text x="10" y="20" font-family="Arial" font-size="12" fill="white">Code &amp; Commit</text>
-    <circle cx="245" cy="15" r="5" fill="#FFFFFF"/>
-  </g>
+  
+  <text x="20" y="78" font-family="monospace" font-size="10" fill="#FFFFFF" fill-opacity="0.85">[x]</text>
+  <text x="44" y="78" font-family="Arial" font-size="11.5" fill="white">Code &amp; Commit</text>
+  
+    <rect x="20.0" y="86" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="1"/>
+    <rect x="33.2" y="86" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="1"/>
+    <rect x="46.4" y="86" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="1"/>
+    <rect x="59.6" y="86" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="1"/>
+    <rect x="72.8" y="86" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="1"/>
+    <rect x="86.0" y="86" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="1"/>
+    <rect x="99.2" y="86" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="1"/>
+    <rect x="112.4" y="86" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="1"/>
+    <rect x="125.6" y="86" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="1"/>
+    <rect x="138.8" y="86" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="0.12"/>
+  <text x="158" y="93" font-family="Arial" font-size="9" fill="white" fill-opacity="0.45">85%</text>
+  
+  <text x="20" y="118" font-family="monospace" font-size="10" fill="#FFFFFF" fill-opacity="0.85">[x]</text>
+  <text x="44" y="118" font-family="Arial" font-size="11.5" fill="white">Technical Reading</text>
+  
+    <rect x="20.0" y="126" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="1"/>
+    <rect x="33.2" y="126" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="1"/>
+    <rect x="46.4" y="126" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="1"/>
+    <rect x="59.6" y="126" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="1"/>
+    <rect x="72.8" y="126" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="1"/>
+    <rect x="86.0" y="126" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="1"/>
+    <rect x="99.2" y="126" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="1"/>
+    <rect x="112.4" y="126" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="0.12"/>
+    <rect x="125.6" y="126" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="0.12"/>
+    <rect x="138.8" y="126" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="0.12"/>
+  <text x="158" y="133" font-family="Arial" font-size="9" fill="white" fill-opacity="0.45">70%</text>
+  
+  <text x="20" y="158" font-family="monospace" font-size="10" fill="#FFFFFF" fill-opacity="0.85">[x]</text>
+  <text x="44" y="158" font-family="Arial" font-size="11.5" fill="white">Project Research</text>
+  
+    <rect x="20.0" y="166" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="1"/>
+    <rect x="33.2" y="166" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="1"/>
+    <rect x="46.4" y="166" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="1"/>
+    <rect x="59.6" y="166" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="1"/>
+    <rect x="72.8" y="166" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="1"/>
+    <rect x="86.0" y="166" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="1"/>
+    <rect x="99.2" y="166" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="1"/>
+    <rect x="112.4" y="166" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="1"/>
+    <rect x="125.6" y="166" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="0.12"/>
+    <rect x="138.8" y="166" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="0.12"/>
+  <text x="158" y="173" font-family="Arial" font-size="9" fill="white" fill-opacity="0.45">78%</text>
+  
+  <text x="20" y="198" font-family="monospace" font-size="10" fill="#FFFFFF" fill-opacity="0.85">[x]</text>
+  <text x="44" y="198" font-family="Arial" font-size="11.5" fill="white">Cloud &amp; Infra Ops</text>
+  
+    <rect x="20.0" y="206" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="1"/>
+    <rect x="33.2" y="206" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="1"/>
+    <rect x="46.4" y="206" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="1"/>
+    <rect x="59.6" y="206" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="1"/>
+    <rect x="72.8" y="206" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="1"/>
+    <rect x="86.0" y="206" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="1"/>
+    <rect x="99.2" y="206" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="1"/>
+    <rect x="112.4" y="206" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="1"/>
+    <rect x="125.6" y="206" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="1"/>
+    <rect x="138.8" y="206" width="11.2" height="6" rx="1.5" fill="#FFFFFF" fill-opacity="0.12"/>
+  <text x="158" y="213" font-family="Arial" font-size="9" fill="white" fill-opacity="0.45">90%</text>
 
-  <!-- Habit 2 -->
-  <g transform="translate(20, 95)">
-    <rect width="260" height="30" rx="6" fill="#0D1117"/>
-    <rect width="180" height="30" rx="6" fill="#FFFFFF" fill-opacity="0.08"/>
-    <text x="10" y="20" font-family="Arial" font-size="12" fill="white">Technical Reading</text>
-    <circle cx="245" cy="15" r="5" fill="#FFFFFF" fill-opacity="0.75"/>
-  </g>
-
-  <!-- Habit 3 -->
-  <g transform="translate(20, 135)">
-    <rect width="260" height="30" rx="6" fill="#0D1117"/>
-    <rect width="200" height="30" rx="6" fill="#FFFFFF" fill-opacity="0.06"/>
-    <text x="10" y="20" font-family="Arial" font-size="12" fill="white">Project Research</text>
-    <circle cx="245" cy="15" r="5" fill="#FFFFFF" fill-opacity="0.55"/>
-  </g>
-
-  <!-- Habit 4 (new) -->
-  <g transform="translate(20, 175)">
-    <rect width="260" height="30" rx="6" fill="#0D1117"/>
-    <rect width="230" height="30" rx="6" fill="#FFFFFF" fill-opacity="0.13"/>
-    <text x="10" y="20" font-family="Arial" font-size="12" fill="white">Cloud &amp; Infra Ops</text>
-    <circle cx="245" cy="15" r="5" fill="#FFFFFF" fill-opacity="0.9"/>
-  </g>
-
-  <text x="150" y="230" text-anchor="middle" font-family="Arial" font-size="10" fill="white" fill-opacity="0.4">CONSISTENCY IS KEY</text>
+  <line x1="20" y1="226" x2="280" y2="226" stroke="#FFFFFF" stroke-opacity="0.08" stroke-dasharray="3 3"/>
+  <text x="150" y="252" text-anchor="middle" font-family="monospace" font-size="10" fill="white" fill-opacity="0.45">&gt; streak: consistent</text>
+  <rect x="226" y="243" width="7" height="12" fill="#FFFFFF"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
 </svg>
 
